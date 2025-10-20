@@ -4,6 +4,8 @@ A feature rich Ethereum companion app with live coin performance, technical indi
 
 Ethereum Pal is an all in one Ethereum companion app designed for both beginners and advanced users. It combines real time market data, technical analysis, and blockchain utilities into a clean and easy to use interface.
 
+![eth1](https://github.com/kevinerh/kevinerh/raw/main/eth1.png)
+
 🔑 Features
 
 📊 Coin Performance – Track live Ethereum and ERC-20 token prices with real-time updates.
