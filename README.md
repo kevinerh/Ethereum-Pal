@@ -9,7 +9,7 @@ While Ethereum Pal primarily focuses on tracking and analyzing Ethereum, it also
 
 Whether you're looking for an Ethereum tracker, a crypto learning app, or a tool to understand technical indicators, Ethereum Pal gives you everything in one place. It is built for beginners but powerful enough for anyone looking to grow their crypto knowledge and stay ahead of market trends.
 
-Features
+FEATURES
 
 Coin Performance – Track live Ethereum prices, trading volume, market cap, and other key metrics with accurate, up to date data.
 
