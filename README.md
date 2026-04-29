@@ -3,7 +3,7 @@ Ethereum Pal is designed to simplify how people understand the Ethereum ecosyste
 
 Ethereum Pal solves this by turning complex blockchain and market data into clear, easy to understand insights. Unlike typical platforms, it combines real time Ethereum data with simple explanations for every key metric, helping users not only track performance but understand what the data actually means. In addition, Ethereum Pal offers interactive technical indicators such as RSI, MACD, and Bollinger Bands with beginner friendly guidance, making it easier to understand how indicators work and interpret their signals.
 
-![Banner](https://github.com/kevinerh/Ethereum-Pal/blob/main/eth1.jpg)
+![Banner](https://github.com/kevinerh/Ethereum-Pal/blob/main/eth1.png)
 
 While Ethereum Pal primarily focuses on tracking and analyzing Ethereum, it also provides insights into ERC-20 tokens and other assets within the Ethereum blockchain. This gives users a broader view of the ecosystem while maintaining a clean and simple experience. From wallet tracking to transaction checking, the app offers practical tools to explore and better understand how the blockchain works.
 
